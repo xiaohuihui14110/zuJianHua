@@ -1,0 +1,16 @@
+PODS:
+  - LHNetworking (0.1.0)
+
+DEPENDENCIES:
+  - LHNetworking (from `Lib/LHNetworking`)
+
+EXTERNAL SOURCES:
+  LHNetworking:
+    :path: Lib/LHNetworking
+
+SPEC CHECKSUMS:
+  LHNetworking: 9530cfe73f4d5f913bf6f3c1ce3492da988022f6
+
+PODFILE CHECKSUM: bac7e4269a84a8ebd20f103725965d2cd12f90e8
+
+COCOAPODS: 1.7.2

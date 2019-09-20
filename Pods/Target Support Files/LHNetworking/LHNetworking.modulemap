@@ -1,0 +1,6 @@
+framework module LHNetworking {
+  umbrella header "LHNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
